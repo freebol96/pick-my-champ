@@ -7,8 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using PickMyChamp.Model;
 
-namespace RandomChampPicker
+namespace PickMyChamp
 {
     public partial class Form1 : Form
     {

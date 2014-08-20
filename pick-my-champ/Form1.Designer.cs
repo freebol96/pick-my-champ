@@ -1,4 +1,4 @@
-﻿namespace RandomChampPicker
+﻿namespace PickMyChamp
 {
     partial class Form1
     {
