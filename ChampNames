@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ChampionNames
+{
+	internal class Champnames
+	{
+		internal string[] supp = new string[]{"Taric","Thresh","leona","Morgana","Kayle","Zilean","Nunu","Blitzcrank","Janna","Alistar","Annie",
+				"Lux","Soraka","Nautilus","Karma","Sona","Lulu","Fiddlesticks","Jarvan IV"};
+
+		internal string[] marksmen = new string[]{"Caitlyn","Tristana","Kog'Maw","Lucian","Quinn","Graves","corki","sivir","vayne","Ezreal","Ashe"
+				,"Urgot","Jinx","Twitch","Miss Fortune"};
+
+		internal string[] top = new string[]{"Viktor","Shyvana","Maokai","Malphite","Mundo","Wukong","Riven","Leblanc","Garen","Darius",
+				"Rumble","Lulu","Alistar","Shen","Hecarim","Ryze","Swain","Diana","Cho'Gath","Yasuo","Vayne","Quinn","Lucian","Blitzcrank",
+				"Taric","Zed","Nidalee","Renekton","Udyr","Nasus","Gnar","Lissandra","Talon","Lee Sin","Jax","Karthus","Tryndamere","Akali",
+				"Kayle","Kassadin","Kha'Zix","Elise","Kennen","Rengar","Nautilus","Nunu","Master Yi","Irelia","Xin Zhao","Jarvan IV",
+				"Pantheon","Vi","Singed","Warwick","poppy","Jayce","Zac","Aatrox"};
+
+		internal string[] jung = new string[]{"Amumu","Jarvan IV","Diana","Lee Sin","Riven","Elise","Vi","Warwick","Tryndamere","Jax",
+				"Lissandra","Kha'Zix","Taric","Kayle","Nunu","Blitzcrank","Nautilus","Fiddlesticks","Xin Zhao","Zed","Udyr",
+				"Shen","Hecarim","Nasus","Shyvana","Maokai","Cho'Gath","Rengar","Yasuo","Karthus","Pantheon","Wukong","Master Yi",
+				"Leona","Twitch","Poppy","Syndra","Aatrox","Zac"};
+
+		internal string[] mid = new string[]{"karma","ziggs","Viktor","Orianna","Leblanc","Morgana","Diana","Xerath","Fizz","Katarina","Lux",
+				"Ezreal","Zed","Malphite","Yasuo","Swain","Kha'Zix","Annie","Ryze","Kennen","Riven","Twisted Fate","Lulu","Lissandra",
+				"Ahri","Cho'Gath","Karthus","Talon","Tristana","Cassiopeia","Syndra","Kayle","Gnar","Kassadin","Mordekaiser","Akali","Kog'Maw"
+			,"Rumble","Zilean","Veigar","Jayce","Fiddlesticks"};
+	}
+	
+    
+    
+}
